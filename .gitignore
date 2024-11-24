@@ -1,4 +1,6 @@
 .bloop
+.bsp
+.scala-build
 .metals
 .vscode
 out
